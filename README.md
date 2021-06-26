@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @ARAOvsepyan
+### 👋 Hi, I’m Ovsepyan Ara
 
 - [Instagram](https://www.instagram.com/hovsepyan_araik/)
 
