@@ -3,11 +3,6 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
-- [Instagram](https://www.instagram.com/hovsepyan_araik/)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARAOvsepyan&theme=dark&hide_border=true)](https://git.io/streak-stats)
