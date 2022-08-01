@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Ovsepyan Ara
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47bothpu6mqo776klbtvyax5vhgm5xozdj1robr57w&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
 - [Instagram](https://www.instagram.com/hovsepyan_araik/)
