@@ -1,5 +1,9 @@
 ### 👋 Hi, I’m Ovsepyan Ara
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - [Instagram](https://www.instagram.com/hovsepyan_araik/)
 
 ### :fire: My Stats :
