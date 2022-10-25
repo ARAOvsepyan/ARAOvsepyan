@@ -7,7 +7,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARAOvsepyan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAOvsepyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAOvsepyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
