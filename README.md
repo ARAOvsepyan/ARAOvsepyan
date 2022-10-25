@@ -4,6 +4,8 @@
   <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
 </div>
 
+![](https://www.codewars.com/users/ARAOvsepyan/badges/large)
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARAOvsepyan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
