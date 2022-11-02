@@ -2,14 +2,16 @@
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+  
+  ![](https://www.codewars.com/users/ARAOvsepyan/badges/large)
+
+  ### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARAOvsepyan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAOvsepyan&layout=compact&theme=vision-friendly-dark)]        (https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-![](https://www.codewars.com/users/ARAOvsepyan/badges/large)
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ARAOvsepyan&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAOvsepyan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
